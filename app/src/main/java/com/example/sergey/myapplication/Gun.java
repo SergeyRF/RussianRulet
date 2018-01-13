@@ -14,7 +14,7 @@ public class Gun {
     }
     public  String fuck(){
         switch (count){
-            case 1: return "Frap";
+            case 1: return "Fuck you";
             case 2: return "The Good";
             case 6: return "You Luck is very BIG";
             default: return "Motherfucker";
